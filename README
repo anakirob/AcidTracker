@@ -1,0 +1,19 @@
+    ___. _ _. ___. .__.  ___  _._  __  __. ___.r---+ _ _  _._   ._.
+   |   || | ||   | |  | F   T| | |T  7|  j|   ||   || T || T |  | |
+   |  _j| | ||  _j |  | | . || | ||| || F |  _j| . || | || | | _. |
+   | T  | | || T   j  L | | || ' |L__j| '.| T  | | || | || ' |T   |
+   | |_.| ' || |_.T    T| | ||   |    |  || |_.| | || | ||   || . |
+   L_. |L__ |L_. |L    j| ._j| ..|    | T L_. || | || | ||.  || | |
+   ._| |T-- |._| | T  T | L_.| |||    L_j ._| || ' || ' |||  || | |
+   |   ||   ||   | |  | |   T| |||        |   ||   ||   |||  || ' |
+   L___jL___jL___j L__j L___jL_Ljj 2022   L___jL___jL___jLL__jL___j
+   
+   presents AcidTracker for (hopefully) all Amigas
+   
+   there's not much here to speak of at this point in time, but the aim
+   of this project is to reproduce the sound of the GameBoy on the
+   Paula sound chip, which should be quite possible given that they both
+   use four channels of audio.
+   
+   This software should be able to load and save LSDJ compatible files
+   as well as limited support for MOD and AHX saving.
